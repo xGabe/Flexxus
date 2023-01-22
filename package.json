@@ -1,0 +1,16 @@
+{
+  "name": "cypress-flexxus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
